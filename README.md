@@ -1,3 +1,17 @@
+
+
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/68a6b2cb-8209-410c-80b6-8f1c195695a2" />
+
+
+
+
+
+
+
+
+
+
 ## Howdie, I am Shriyansh 👋</br>
 Building Avocado, The AI that remembers what you promised 🥑</br>
 Student developer, Interested in AI systems</br>
